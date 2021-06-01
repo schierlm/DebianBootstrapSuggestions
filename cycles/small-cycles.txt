@@ -1,0 +1,31 @@
+xorg -> asciidoc -> python3-stdlib-extensions -> xorg
+
+flex -> texlive-bin -> flex
+
+racc -> rdtool -> racc
+
+libmoox-cmd-perl -> libmoox-options-perl -> libmoox-cmd-perl
+
+asciidoctor -> ruby-slim -> asciidoctor
+
+libweb-scraper-perl -> libhtml-treebuilder-libxml-perl -> libweb-scraper-perl
+
+libmousex-getopt-perl -> libmousex-types-path-class-perl -> libmousex-getopt-perl
+libmousex-getopt-perl -> libmousex-configfromfile-perl -> libmousex-types-path-class-perl -> libmousex-getopt-perl
+
+debhelper -> po4a -> potrace -> debhelper
+debhelper -> sgml-base -> debhelper
+debhelper -> libsgmls-perl -> debhelper
+debhelper -> libyaml-tiny-perl -> debhelper
+
+libcrypt-cbc-perl -> libcrypt-des-ede3-perl -> libcrypt-des-perl -> libcrypt-cbc-perl
+libcrypt-cbc-perl -> libcrypt-blowfish-perl -> libcrypt-cbc-perl
+libcrypt-cbc-perl -> libcrypt-cast5-perl -> libcrypt-cbc-perl
+libcrypt-cbc-perl -> libcrypt-des-perl -> libcrypt-cbc-perl
+
+freebsd-buildutils -> freebsd-libs -> freebsd-buildutils
+freebsd-buildutils -> freebsd-libs -> freebsd-glue -> freebsd-buildutils
+freebsd-buildutils -> freebsd-glue -> freebsd-buildutils
+
+libexporter-declare-perl -> libtest-exception-lessclever-perl -> libmock-quick-perl -> libexporter-declare-perl
+libexporter-declare-perl -> libdevel-declare-parser-perl -> libtest-exception-lessclever-perl -> libexporter-declare-perl
