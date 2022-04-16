@@ -40,3 +40,11 @@ For the last one I was not even able to create an acceptable visualization (the 
 graph with yEd), so I provide the [raw data](intermediate/) instead.
 
 [This text file](intermediate/big-cycle-dependencies.txt) contains all the three big components, not only the largest one.
+
+Update
+------
+
+The [author of botch](https://github.com/josch) reached out and pointed out that in fact, botch also could have done that kind
+of dependency resolution, and they even provide a page with [weekly dependency statistics](https://bootstrap.debian.net/botch-native/amd64/stats.html).
+
+More interesting details can be found in [the issue itself](https://github.com/schierlm/DebianBootstrapSuggestions/issues/1).
